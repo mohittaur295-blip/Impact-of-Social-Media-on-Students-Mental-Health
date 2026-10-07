@@ -76,6 +76,7 @@ These visualizations help identify trends, distributions, relationships, and pot
 
 ## 📂 Project Structure
 
+Author: Mohit Taur
 ```text
 Social-Media-Impact-on-Student-Mental-Health/
 │
